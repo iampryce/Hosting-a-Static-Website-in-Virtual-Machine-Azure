@@ -21,6 +21,8 @@
 
 ![Draw.io](https://img.shields.io/badge/Draw.io-Architecture_Diagram-F08705?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-CLI-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![BobaxTerm](https://img.shields.io/badge/BobaxTerm-Go%20Terminal-blue?logo=go&logoColor=white)
+
 
 
 ![CIDR](https://img.shields.io/badge/CIDR-Networking-green?style=for-the-badge)
@@ -37,13 +39,14 @@
 This project demonstrates how to host a static website using a Virtual Machine (VM) in Microsoft Azure. An Azure VM is created and configured with a Nginx web server to serve static HTML, CSS, and JavaScript files. 
 
 ## Table of Contents
-1. [Created a Virtual Machine ](#1-created-a-virtual-machine)
+- [Created a Virtual Machine ](#1-created-a-virtual-machine)
+- [Connecting to Sever](#2-connecting-to-the-virtual-machine-via-linux-cli)
+- Configuring, Patching and Updating
+
+ ### STEPS
 
 
- ## STEPS
-
-
-### 1.) Created a Virtual machine
+## 1.) Created a Virtual machine
 
 (step 1)
 
@@ -85,3 +88,30 @@ _Also i will be using  username and password instead of a key to ssh_
 (step 4)
 
 **Management Setup**
+_left at defualt_
+
+<p> </p>
+
+(step 5)
+
+**Monitoring Setup**
+_left at defualt_
+
+**Done** ✔
+
+
+https://github.com/user-attachments/assets/93af4527-0ec6-457f-a565-d0809088cdad
+
+
+
+<p></p>
+
+## 2.) Connecting to the Virtual Machine VIA Linux CLI (MobaXterm)
+
+(step 1)
+
+<img width="1330" height="676" alt="connected to server via mobaxterm" src="https://github.com/user-attachments/assets/f369c687-3575-418d-b053-1c5f06157e44" />
+
+## 3.) Configuring, Patching and Updating
+
+
